@@ -6,7 +6,7 @@ En esta práctica se solicita la creación de uno o más diagramas UML para defi
 
 La explicación del juego se puede [ver en este documento PDF](https://www.infotecnovision.com/Multimedia/REGLAS-DEL-MASTERMIND.pdf). Para quien lo prefiera, en este [vídeo de youtube explican el juego con un ejemplo](https://www.youtube.com/watch?v=sL5sf318GHY). 
 
-El número de diagramas que debes presentar depende de tu propio criterio. En principio deberían ser tantos como fuera necesario para conseguir definir completamente el juego, tal como te lo haya explicado tu cliente, evitando que queden partes confusas. Los tipos de diagramas también depende de tu propio criterio. Durante el curso de Recurrencia, y en la tutoría 2, se vieron los diagramas del juego de las tres en raya, para que os podáis inspirar. A lo largo del máster trabajaréis bastante con este ejercicio del mastermind, por lo que no os preocupéis que no esté perfecta la práctica, porque poco a poco a iremos mejorando y completando. Lo importante es dedicarle un par de horas a pensar y hacer algunos diagramas.
+El número de diagramas que debes presentar depende de tu propio criterio. En principio deberían ser tantos como fuera necesario para conseguir definir completamente el juego, tal como te lo haya explicado tu cliente, evitando que queden partes confusas. Los tipos de diagramas también depende de tu propio criterio. Durante el [curso de Recurrencia](https://escuela.it/cursos/curso-recurrencia-desarrollo-software), y en el final de la [tutoría de la clase 3](https://escuela.it/cursos/curso-recurrencia-desarrollo-software/clase/tutoria-clase3) (1:38:16), se vieron los diagramas del juego de las tres en raya, para que os podáis inspirar. A lo largo del máster trabajaréis bastante con este ejercicio del mastermind, por lo que no os preocupéis que no esté perfecta la práctica, porque poco a poco a iremos mejorando y completando. Lo importante es dedicarle un par de horas a pensar y hacer algunos diagramas.
 
 ## Software para realización de los diagramas UML
 
@@ -16,7 +16,7 @@ Nosotros recomendamos realizar los diagramas mediante código. La herramienta qu
 
 Luis usa PlantUML para generar los diagramas de UML de documentación de los cursos. Por ejemplo, en este enlace puedes ver el [código de los diagramas del modelo de dominio de las 3 en raya](https://github.com/USantaTecla-ticTacToe/tictactoe.requirements/blob/master/src/docs/asciidoc/index.adoc).
 
-También nos han comentado que existe una extensión de PlantUML para VSCode, que funciona muy bien. No obstante, parece que hay que realizar algunos pasos para configurarla correctamente.
+También nos han comentado que existe una [extensión de PlantUML para VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml). No obstante, parece que hay que realizar algunos pasos para configurarla correctamente.
 
 ## Material que presentar
 
@@ -24,7 +24,7 @@ Esta práctica requiere presentar los diagramas que hayáis creado para realizar
 
 Además, en el caso que uséis PlantUML, por favor, colocar en una carpeta el código usado para la generación de los diagramas, así lo podremos ver todos y aprender más sobre la herramienta. 
 
-## Los repositorios deben ser públicos
+### Los repositorios deben ser públicos
 
 Los repos de los ejercicios serán públicos, para que todos podamos entrar y ver el código y soluciones de otros estudiantes. A través de Slack podemos decidir cuáles son los mejores (o más representativos) para que sean los que se corrijan en clase. (Por cierto hemos enviado una notificación para facilitaros la invitación al slack del máster).
 
